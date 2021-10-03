@@ -1,6 +1,6 @@
 # Octave on mybinder.org
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nevermind78/Octave_Binder_TP2/master?labpath=TP2-octave.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nevermind78/Octave_Binder_TP2/master?urlpath=TP2-octave.ipynb)
 
 An example of using Octave on [mybinder.org](https://mybinder.org/).
 
