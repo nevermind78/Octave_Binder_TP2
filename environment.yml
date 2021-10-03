@@ -1,5 +1,4 @@
 dependencies:
 - octave_kernel
-- octave
-- jupyter-server-proxy
+
 
