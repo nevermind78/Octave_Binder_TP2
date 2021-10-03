@@ -1,3 +1,5 @@
 apt -y update ; exit 0
+octave
+octave-image
 gnuplot
 ghostscript
