@@ -1,7 +1,4 @@
-curl
-octave
-liboctave-dev
+apt -y update
 gnuplot
 ghostscript
-awscli
 apt -y update ; exit 0
